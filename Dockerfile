@@ -1,4 +1,4 @@
-FROM zabbix/zabbix-web-service:ubuntu-6.4.19
+FROM zabbix/zabbix-web-service:ubuntu-6.4.21
 #FROM zabbix/zabbix-web-service:ubuntu-6.4-latest
 
 USER zabbix
